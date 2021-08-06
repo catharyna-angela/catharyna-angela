@@ -8,6 +8,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 <h2> Tecnologias que possuo conhecimento: </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catharyna&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catharyna&layout=compact&theme=radical) 
  
-![Catharyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catharyna&show_icons=true) 
+![Catharyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catharyna&show_icons=true&theme=radical)
