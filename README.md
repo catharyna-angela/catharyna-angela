@@ -1,13 +1,18 @@
- <h1> Olá, sejam bem-vindos! 👋 </h1>
+<h1> Olá, sejam bem-vindos! 👋 </h1>
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catharynaas/)](https://www.linkedin.com/in/catharynaas/)
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catharynaas/">
 
-Estudante de Análise e Desenvolvimento de Sistemas
-
-#Front-End
+<p>Estudante de Análise e Desenvolvimento de Sistemas</p>
 
 <h2> Tecnologias que possuo conhecimento: </h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catharyna&layout=compact&theme=radical) 
- 
-![Catharyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catharyna&show_icons=true&theme=radical)
+ <div>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" height=20px width=20px>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" height=25px width=25px>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" height=25px width=25px>
+ </div>
+  
+<h2>Tecnologias mais trabalhadas: </h2>  
+ <div id="spc"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Catharyna&show_icons=true&theme=radical"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catharyna&layout=compact&theme=radical" width=495px>
+ </div>
