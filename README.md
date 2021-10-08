@@ -2,7 +2,8 @@
  
 <a href="https://www.linkedin.com/in/catharynaas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catharynaas/"></a>
 
-<p>Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p>- Estudante de Análise e Desenvolvimento de Sistemas</br>
+- Inglês Intermediário</p>
 
 <h2> Tecnologias que possuo conhecimento: </h2>
  <div>
