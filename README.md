@@ -1,6 +1,6 @@
 <h1> Olá, sejam bem-vindos! 👋 </h1>
  
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catharynaas/">
+<a href="https://www.linkedin.com/in/catharynaas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catharynaas/"></a>
 
 <p>Estudante de Análise e Desenvolvimento de Sistemas</p>
 
