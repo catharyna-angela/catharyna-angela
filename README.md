@@ -14,6 +14,6 @@
   
 <h2>My Works: </h2>  
  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Catharyna-Angela&show_icons=true&theme=radical" width="500px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catharyna-Angela&layout=compact&theme=radical" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api?username=catharyna-angela&show_icons=true&theme=radical" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catharyna-angela&layout=compact&theme=radical" width="500px">
 </div>
