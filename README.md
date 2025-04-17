@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/catharynaas" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,24 +10,25 @@
 <br><br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=catharyna-angela&style=flat)" />
+  <img src="https://komarev.com/ghpvc/?username=catharyna-angela&style=flat" />
 </div>
 
-<h1 align="center">Olá! 👋</h1>
+<h1 align="center">Olá você! 👋</h1>
 
 <h3 align="left">👩‍💻  Sobre mim:</h3><br>
 
-<p align="left"> Sou desenvolvedora backend Java com experiência em projetos antifraude adquirido durante meu estágio de 2 anos na Serasa Experian.<br>
- <br> Atuei diretamente no desenvolvimento de dois principais projetos usando Java, Spring Boot, JPA, Hibernate, APIs RESTful, também possuo conhecimento em CSS3, HTML5, Programação Orientada a Objetos, Scrum, Jenkins, Git, SQL, testes de API com Postman, CI/CD.<br>
- <br> Atualmente estou estudando sobre Design Patterns e desenvolvendo um projeto próprio em Java com Spring Web, MySQL e JPA.
+<p align="left"> Sou desenvolvedora backend Java com experiência em projetos antifraude adquirido durante meu estágio de 2 anos na Serasa Experian.<br><br>
+                Atuei diretamente no desenvolvimento de dois principais projetos usando Java, Spring Boot, JPA, Hibernate, APIs RESTful, também possuo conhecimento em CSS3, 
+                HTML5, Programação Orientada a Objetos, Scrum, Jenkins, Git, SQL, testes de API com Postman, CI/CD.<br><br>
+                Atualmente estou estudando sobre Design Patterns e desenvolvendo um projeto próprio em Java com Spring Web, MySQL e JPA.<br><br>
 
- <br>- 🔭 ...
- <br>- 📚 Atualmente estou aprendendo **Design Patterns**.
- <br>- ⚡ No meu tempo livre eu gosto de desenhar, ler livros, andar de bicicleta e jogar.</p>
+ - 🔭 Procurando por uma equipe para crescer junto...
+ - 📚 Atualmente estou aprendendo **Design Patterns**.
+ - ⚡ No meu tempo livre eu gosto de desenhar, ler livros, andar de bicicleta e jogar.</p>
 
 ---
 
-<h3 align="left">🛠 Linguagens e ferramentas:</h3> <br>
+<h3 align="left">🛠 Linguagens e ferramentas:</h3><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
@@ -54,6 +55,11 @@
 </div>
 
 ---
-<h3 align="left">🔥   Meu status:</h3> <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catharyna-angela&langs_count=8&theme=dracula" /><br><br>
+
+<h3 align="left">🔥   Meu status:</h3><br>
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catharyna-angela&theme=dracula" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catharyna-angela&show_icons=true&theme=dracula" />
+</div>
 
