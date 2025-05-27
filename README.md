@@ -23,7 +23,7 @@
                 Atualmente estou estudando sobre design de API RESTful e desenvolvendo um projeto próprio em Java com Spring, MySQL e JPA.<br><br>
 
  - 🔭 Procurando por uma equipe para crescer junto...
- - 📚 Atualmente estou aprendendo **Design Patterns**.
+ - 📚 Atualmente estou aprendendo **design de API RESTful**.
  - ⚡ No meu tempo livre eu gosto de desenhar, ler livros, andar de bicicleta e jogar.</p>
 
 ---
