@@ -59,7 +59,7 @@
 <h3 align="left">🔥   Meu status:</h3><br>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catharyna-angela&theme=dracula" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catharyna-angela&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catharyna-angela&theme=tokyonight" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catharyna-angela&show_icons=true&theme=tokyonight" />
 </div>
 
