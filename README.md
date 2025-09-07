@@ -17,12 +17,12 @@
 
 <h3 align="left">👩‍💻  Sobre mim:</h3><br>
 
-<p align="left"> Sou desenvolvedora backend Java com experiência em projetos antifraude adquirido durante meu estágio de 2 anos na Serasa Experian.<br><br>
+<p align="left"> Sou desenvolvedora backend Java com experiência em projetos antifraude adquirido durante 2 anos na Serasa Experian.<br><br>
                 Atuei diretamente no desenvolvimento de dois principais projetos usando Java, Spring Boot, JPA, Hibernate, APIs RESTful, também possuo conhecimento em CSS3, 
-                HTML5, Programação Orientada a Objetos, Scrum, Jenkins, Git, SQL, testes de API com Postman, CI/CD.<br><br>
-                Atualmente estou estudando sobre design de API RESTful e desenvolvendo um projeto próprio em Java com Spring, MySQL e JPA.<br><br>
+                HTML5, Programação Orientada a Objetos, Scrum, Git, SQL, testes de API com Postman, CI/CD e uso de ferramentas como o Kubernetes, Jenkins, SonarQube, Dynatrace e Grafana Loki.<br><br>
+                Atualmente estou estudando sobre design de API RESTful e desenvolvendo um projeto próprio em Java com Spring Boot, MySQL e JPA.<br><br>
 
- - 🔭 Procurando por uma equipe para crescer junto...
+ - 🔭 Procurando por uma equipe para crescermos juntos.
  - 📚 Atualmente estou aprendendo **design de API RESTful**.
  - ⚡ No meu tempo livre eu gosto de desenhar, ler livros, andar de bicicleta e jogar.</p>
 
