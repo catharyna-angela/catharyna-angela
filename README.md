@@ -21,7 +21,6 @@
                 HTML5, Programação Orientada a Objetos, Scrum, Git, SQL, testes de API com Postman, CI/CD e uso de ferramentas como o Kubernetes, Jenkins, SonarQube, Dynatrace e Grafana Loki.<br><br>
                 Atualmente estou estudando sobre design de API RESTful e desenvolvendo um projeto próprio em Java que você pode ver <a href="https://github.com/catharyna-angela/votehub-api.git">aqui</a>.<br><br>
 
- - 🔭 Procurando por uma equipe para crescermos juntos.
  - 📚 Atualmente estou estudando **design de API RESTful**.
  - ⚡ No meu tempo livre eu gosto de desenhar, ler livros, passear de bicicleta e jogar.</p>
 
