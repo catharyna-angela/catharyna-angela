@@ -2,14 +2,14 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div><br>
 
-<h2 align="left">👩‍💻  About me:</h2>
-<p align="left"> I'm a Java backend developer with experience in anti-fraud projects.<br>
+<h2 align="center">👩‍💻  About me:</h2>
+<p align="center"> I'm a Java backend developer with experience in anti-fraud projects.<br>
   I'm currently studying RESTful API design and developing my own Java project, which you can see <a href="https://github.com/catharyna-angela/votehub-api.git">here</a>.<br><br>
 
-<h2 align="left">🛠 Langs & tools:</h2><br>
-<div align="left">
+<h2 align="center">🛠 Langs & tools:</h2><br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="java"/>
-  <img width="12"/>
+  <img width="3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman"/>
