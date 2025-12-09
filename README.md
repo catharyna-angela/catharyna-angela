@@ -51,13 +51,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
----
-
-<h3 align="left">🔥   Meu status:</h3><br>
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catharyna-angela&theme=tokyonight" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catharyna-angela&show_icons=true&theme=tokyonight" />
-</div>
-
